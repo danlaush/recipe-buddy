@@ -1,10 +1,8 @@
-# recipe-buddy
-
-> Visualise and verbalize your recipes
-
-![](./docs/recipe-buddy.png)
+![Recipe Buddy - Visualise and verbalize your recipes](./docs/recipe-buddy.png)
 
 [See About page component for details.](./pages/about.vue)
+
+![](./docs/recipe%20-%20Screen%20Shot%202018-02-11%20at%2011.59.36%20pm.png)
 
 ## Current state and next steps
 
@@ -38,7 +36,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
-## Recipe view
-
-![](./docs/recipe - Screen Shot 2018-02-11 at 11.59.36 pm.png)
